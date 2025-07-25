@@ -48,8 +48,5 @@ Todo el proceso se realiza en el navegador, sin necesidad de backend ni instalac
 - Las imágenes utilizadas están en la carpeta `assets` y son necesarias para el correcto funcionamiento visual de la aplicación.
 - Los estilos están definidos en `style.css` y las fuentes se cargan desde Google Fonts.
 
-## Créditos
-Desarrollado como parte de un desafío de lógica de programación.
-
 ---
 ¡Si tienes sugerencias o encuentras algún problema, no dudes en abrir un issue o enviar un pull request! 
